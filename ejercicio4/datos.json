@@ -1,0 +1,32 @@
+[
+  {
+    "pais": "Bolivia",
+    "gasolina": "6.96 Bs",
+    "diesel": "17.95 Bs",
+    "gnv": "2.73 Bs"
+  },
+  {
+    "pais": "Argentina",
+    "gasolina": "17.15 Bs",
+    "diesel": "18.33 Bs",
+    "gnv": "6.78 Bs"
+  },
+  {
+    "pais": "Brasil",
+    "gasolina": "15.07 Bs",
+    "diesel": "15.78 Bs",
+    "gnv": "N/D"
+  },
+  {
+    "pais": "Chile",
+    "gasolina": "17.52 Bs",
+    "diesel": "16.01 Bs",
+    "gnv": "11.22 Bs"
+  },
+  {
+    "pais": "Perú",
+    "gasolina": "20.20 Bs",
+    "diesel": "23.03 Bs",
+    "gnv": "10.16 Bs"
+  }
+]

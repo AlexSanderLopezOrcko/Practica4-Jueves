@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PokeAPI</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="contenedor">
+      <h1>Buscar Pokémon</h1>
+
+      <div class="buscador">
+        <input
+          type="text"
+          id="pokemon"
+          placeholder="Introduzca el nombre de su Pokémon"
+        />
+        <button id="btnBuscar">Filtrar</button>
+      </div>
+
+      <section class="pokemon">
+        <img
+          id="imagen"
+          src="https://placehold.co/180x180?text=Pokemon"
+          alt="Pokémon"
+        />
+
+        <h2 id="nombre"></h2>
+
+        <div class="datos">
+          <h3>Tipo</h3>
+          <p id="tipo"></p>
+
+          <h3>Altura</h3>
+          <p id="altura"></p>
+
+          <h3>Peso</h3>
+          <p id="peso"></p>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
